@@ -1,0 +1,15 @@
+.top__{
+    top:10px!important;
+}
+
+.ToBeUp{
+    transition: .6s top;
+    -webkit-transition: .6s top;
+    -moz-transition: .6s top;
+    -ms-transition: .6s top;
+    -o-transition: .6s top;
+}
+.dropdown-center {
+    position: relative;
+    top: -8px; /* Adjust this value as needed to align it with the center of the "Form Type" label */
+}

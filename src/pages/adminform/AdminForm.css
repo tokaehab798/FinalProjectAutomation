@@ -1,0 +1,16 @@
+.forms-row:not(:last-child) {
+    margin-bottom: 20px; /* Adjust the margin-bottom value as needed */
+}
+.dropdown-center {
+    position: relative;
+    top: -8px; /* Adjust this value as needed to align it with the center of the "Form Type" label */
+}
+
+.forms-row {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow */
+    transition: box-shadow 0.3s ease; /* Add transition for smooth effect */
+}
+
+.forms-row:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Increase shadow on hover */
+}

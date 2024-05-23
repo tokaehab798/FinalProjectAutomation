@@ -1,0 +1,66 @@
+.circle-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    
+}
+
+.circle-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.nav-tabs .nav-link {
+    color: black; /* Default color */
+}
+
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-link.active:focus,
+.nav-tabs .nav-link.active:hover {
+    color: white!important;
+    background-color: #157347; /* Background color for active tab */
+    border-color: #157347; /* Border color for active tab */
+}
+
+.research-paper {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 15px;
+}
+
+.card-text {
+    margin-bottom: 20px;
+}
+
+.link-section {
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+}
+
+.link-section strong {
+    margin-right: 10px;
+    font-weight: bold;
+}
+.subject-container {
+    margin: 5px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adjust the shadow as needed */
+  }
+  .editButtonStyle {
+    background-color: "#157347";
+    border-color: #157347;
+  };

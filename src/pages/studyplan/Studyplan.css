@@ -1,0 +1,15 @@
+.layer__{
+    opacity: 0;
+    transition: .6s opacity ;
+    -webkit-transition: .6s opacity ;
+    -moz-transition: .6s opacity ;
+    -ms-transition: .6s opacity ;
+    -o-transition: .6s opacity ;
+ }
+ .layer__:hover{
+     opacity: 1;
+ 
+ }
+ .model__{
+ z-index: 999999999;
+ }

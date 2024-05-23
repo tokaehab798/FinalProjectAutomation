@@ -1,0 +1,66 @@
+.learn-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .button-row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  .button-like {
+    width: 200px;
+    height: 45px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    position: relative;
+}
+.dot {
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+  .member {
+    position: relative;
+    margin-bottom: 20px;
+  }
+
+  .member-info {
+    background-color: #f9f9f9;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .underline {
+    height: 5px;
+    width: 130px;
+    margin: 0 auto 20px;
+    border-radius:5px ;
+    -webkit-border-radius:5px ;
+    -moz-border-radius:5px ;
+    -ms-border-radius:5px ;
+    -o-border-radius:5px ;
+}
+
+.fixed-height-card {
+  height: 300px; 
+}
+.fixed-height-card-member{
+  height: 320px; 
+}

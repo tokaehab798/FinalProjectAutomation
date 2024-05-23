@@ -1,0 +1,16 @@
+.top__{
+    top:10px!important;
+}
+
+label{
+    transition: .6s top;
+    -webkit-transition: .6s top;
+    -moz-transition: .6s top;
+    -ms-transition: .6s top;
+    -o-transition: .6s top;
+}
+.form-check-input:checked {
+    background-color: #157347; /* Green color */
+    border-color: #157347; /* Green color */
+  }
+

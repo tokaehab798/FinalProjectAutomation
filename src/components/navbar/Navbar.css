@@ -1,0 +1,28 @@
+.bordershape {
+    border-radius: 20%;
+    -webkit-border-radius: 20%;
+    -moz-border-radius: 20%;
+    -ms-border-radius: 20%;
+    -o-border-radius: 20%;
+}
+
+.navbar {
+    transition: .6s padding;
+    -webkit-transition: .6s padding;
+    -moz-transition: .6s padding;
+    -ms-transition: .6s padding;
+    -o-transition: .6s padding;
+
+}
+
+.nav-item.dropdown .dropdown-item:active {
+    background-color: #157347 !important;
+}
+
+  .nav-tabs .nav-link.active,
+.nav-tabs .nav-link.active:focus,
+.nav-tabs .nav-link.active:hover {
+    color: white!important;
+    background-color: #157347; /* Background color for active tab */
+    border-color: #157347; /* Border color for active tab */
+}

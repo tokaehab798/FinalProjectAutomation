@@ -1,0 +1,9 @@
+.circle-contentdown{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: #157347;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

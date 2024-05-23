@@ -1,0 +1,33 @@
+
+
+.TheIcons {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.TheIcons:nth-child(1):hover {
+    /* Define hover styles for the first icon */
+    background-color: white;
+    color:#052864;
+}
+
+.TheIcons:nth-child(2):hover {
+    /* Define hover styles for the second icon */
+    background-color: white;
+    color:#052864;
+}
+
+.TheIcons:nth-child(3):hover {
+    /* Define hover styles for the third icon */
+    background-color: white;
+    color:#052864;
+}
+
+/* Add more rules for each icon as needed */
